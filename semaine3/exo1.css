@@ -1,0 +1,13 @@
+/* le color c'est pour changer la couleur du texte*/
+
+p{
+    color: orange;
+}
+
+.para1{
+    color:red;
+}
+span{
+    color: yellow;
+}
+

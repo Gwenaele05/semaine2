@@ -1,0 +1,22 @@
+h1 {color: red;
+    background-color: blue;
+    font-size-adjust: 32px;
+    padding:12px 12px 12px 300px;
+    border: green 16px solid;
+}
+
+h2 {color: red;
+    background-color: blue;
+    font-size-adjust: 32px;
+    padding:12px 12px 12px 300px;
+    border: green 16px dashed;
+}
+
+h3 {color: red;
+    background-color: rosybrown;
+    font-size-adjust: 32px;
+    padding:12px 12px 12px 300px;
+    border: black 16px dotted;
+}
+
+}

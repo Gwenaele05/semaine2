@@ -1,0 +1,22 @@
+
+h1 {
+        color: red;
+        text-decoration: underline;
+         /* text-decoration-color: blue;  */
+    }
+    
+    .small-block {
+        font-style: italic;
+        width: 500px;
+        text-indent: 40px;
+}
+
+.encadre {
+    border: 2px solid blue;
+}
+
+.isole {
+        margin: 200px ;
+    }
+
+    
